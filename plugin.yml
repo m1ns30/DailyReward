@@ -1,0 +1,5 @@
+name: AttendanceCheck
+main: MINSEO\attendancecheck\AttendanceCheck
+author: MINSEO
+version: 1.0.0
+api: 5.0.0
